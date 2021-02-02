@@ -8,5 +8,5 @@ sites:
     url: https://su2umarathon.netlify.app/
 
 status-website:
-  baseUrl: /repo
-  name: Your Status Website
+  baseUrl: /upptime
+  name: Upptime
