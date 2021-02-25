@@ -4,19 +4,19 @@
     "url": "https://su2umarathon.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/su2umarathon.netlify.app",
     "slug": "su2umarathon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 112,
-    "timeWeek": 127,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 265,
+    "timeDay": 458,
+    "timeWeek": 211,
+    "timeMonth": 265,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2021-02-25": 0
+      "2021-02-25": 27
     }
   }
 ]
