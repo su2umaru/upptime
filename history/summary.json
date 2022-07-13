@@ -4,7 +4,7 @@
     "url": "https://su2umarathon.netlify.app/",
     "icon": "https://favicons.githubusercontent.com/su2umarathon.netlify.app",
     "slug": "su2umarathon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 550,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-05-17": 16,
       "2022-05-02": 17,
       "2022-04-14": 15,
