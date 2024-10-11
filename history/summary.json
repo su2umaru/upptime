@@ -6,17 +6,15 @@
     "slug": "su2umarathon",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 96,
-    "timeWeek": 81,
-    "timeMonth": 137,
+    "timeDay": 107,
+    "timeWeek": 85,
+    "timeMonth": 140,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2024-10-10": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
