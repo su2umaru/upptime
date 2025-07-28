@@ -4,19 +4,19 @@
     "url": "https://su2umarathon.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/su2umarathon.netlify.app.ico",
     "slug": "su2umarathon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 77,
-    "timeWeek": 105,
-    "timeMonth": 106,
+    "timeDay": 117,
+    "timeWeek": 115,
+    "timeMonth": 109,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-07-28": 0
+      "2025-07-28": 12
     }
   }
 ]
